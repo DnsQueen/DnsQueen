@@ -5,7 +5,7 @@
 ============================================================
  DNS Scanner Pro - Professional Mobile Logic
 ============================================================
-Developer: Farbod (via AI Studio Build)
+Developer: DnsQueen (via AI Studio Build)
 Logic: Port 53 -> E2E Recursive -> IP-Pinned Speed Test
 ============================================================
 """
